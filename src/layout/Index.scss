@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    width: 100%;
+    height: 100px;
+   
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    position: absolute;
+    .link{
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        font-weight: bold;
+     
+    }
+
+  
+}
